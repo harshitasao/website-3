@@ -1,9 +1,9 @@
 ---
 author: dholbach
-date: YEAR-XX-01 15:30:00+00:00
-title: LAST_MONTH YEAR Update
+date: 2023-05-01 15:30:00+00:00
+title: April 2023 Update
 description: "XX"
-url: /blog/YEAR/XX/LAST_MONTH-YEAR-update/
+url: /blog/2023/XX/april-2023-update/
 tags: [monthly-update]
 resources:
 - src: "**.{png,jpg}"
@@ -26,10 +26,10 @@ to get more background on how to publish this blog post.
 As the Flux family of projects and its communities are growing, we
 strive to inform you each month about what has already landed, new
 possibilities which are available for integration, and where you can get
-involved. Read our last update here (xxx).
+involved. Read [our last update here](/blog/2023/04/march-2023-update/).
 
-It's the beginning of MONTH YEAR - let's recap together what
-happened in LAST_MONTH - it has been a lot!
+It's the beginning of May 2023 - let's recap together what
+happened in April - it has been a lot!
 
 ## News in the Flux family
 
@@ -77,7 +77,7 @@ our engineers.
 
 We feel blessed to have such a big community of users, contributors and
 integrators and so many are happy to talk about their experiences. In
-LAST_MONTH here are a couple of talks we would like to highlight.
+April here are a couple of talks we would like to highlight.
 
 Here is a list of additional videos and topics we really enjoyed -
 please let us know if we missed anything of interest and we will make
@@ -86,7 +86,7 @@ sure to mention it in the next post!
 ### Upcoming Events 📆
 
 We are happy to announce that we have a number of events coming up in
-MONTH- tune in to learn more about Flux and GitOps best practices,
+May - tune in to learn more about Flux and GitOps best practices,
 get to know the team and join our community.
 
 #### Flux Bug Scrub
@@ -98,10 +98,10 @@ as a project.
 
 The next dates are going to be:
 
-- [YEAR-xx-yy 12:00 UTC, 14:00 CEST](/#calendar)
-- [YEAR-xx-yy 17:00 UTC, 19:00 CEST](/#calendar)
-- [YEAR-xx-yy 12:00 UTC, 14:00 CEST](/#calendar)
-- [YEAR-xx-yy 17:00 UTC, 19:00 CEST](/#calendar)
+- [2023-xx-yy 12:00 UTC, 14:00 CEST](/#calendar)
+- [2023-xx-yy 17:00 UTC, 19:00 CEST](/#calendar)
+- [2023-xx-yy 12:00 UTC, 14:00 CEST](/#calendar)
+- [2023-xx-yy 17:00 UTC, 19:00 CEST](/#calendar)
 
 We are flexible with subjects and often go with the interests of the
 group or of the presenter. If you want to come and join us in either
@@ -124,12 +124,20 @@ We love it when you all write about Flux and share your experience,
 write how-tos on integrating Flux with other pieces of software or other
 things. Give us a shout-out and we will link it from this section! ✍
 
+**Grafana Operator Blog: [Install Grafana-operator using Flux and Kustomize](https://grafana-operator.github.io/grafana-operator/blog/2023/03/29/install-grafana-operator-using-flux-and-kustomize/)**
+
+The grafana-operator team have recently started to ship their Kustomize
+manifests using OCI with the help of Flux artifact. As a part of this,
+they have written [a small blog on how to install grafana-operator using
+Flux](https://grafana-operator.github.io/grafana-operator/blog/2023/03/29/install-grafana-operator-using-flux-and-kustomize)
+and how to manage grafana dashboards as code.
+
 ### News from the Website and our Docs
 
 #### Flux Adopters shout-out
 
 We are very pleased to announce that the following adopters of Flux have
-come forward and added themselves to our website: xxx
+come forward and added themselves to our website: [Kiln](https://kiln.fi).
 
 If you have not already done so, [use the instructions
 here](/adopters/) or give us a ping and we will help to add you. Not only
@@ -207,7 +215,7 @@ If you like what you read and would like to get involved, here are a few
 good ways to do that:
 
 - Join our [upcoming dev meetings](/community/#meetings) on
-  YEAR-XX-XX or YEAR-XX-XX.
+  2023-XX-XX or 2023-XX-XX.
 - Talk to us in the #flux channel on [CNCF Slack](https://slack.cncf.io/)
 - Join the [planning discussions](https://github.com/fluxcd/flux2/discussions)
 - And if you are completely new to Flux, take a look at our [Get
